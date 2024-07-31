@@ -3,3 +3,6 @@ package-lock.json
 cache
 docs
 temp
+ignition/deployments
+artifacts
+cache
