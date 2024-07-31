@@ -19,12 +19,12 @@ module.exports = {
   },
   allowUnlimitedContractSize: true,
   networks: {
-    bnb_testnet:{
+    bnb_testnet: {
       url: BNB_TESTNET_URL,
       accounts: [BNB_ACCOUNT_PRIVATE_KEY]
     }
   },
-  etherscan:{
+  etherscan: {
     apiKey: BSCSCAN_API_KEY
   }
 }
